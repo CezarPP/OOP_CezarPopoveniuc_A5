@@ -32,6 +32,6 @@ int main() {
         while (fgets(myString, 200, fp))
             sum += customAtoi(myString);
     }
-    printf("%d", sum);
+    printf("%lld", sum);
     return 0;
 }
