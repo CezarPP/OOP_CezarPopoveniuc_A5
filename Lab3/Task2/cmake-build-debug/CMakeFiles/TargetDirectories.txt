@@ -1,0 +1,3 @@
+C:/Users/Cezar/Desktop/OOP/Lab3/Task2/cmake-build-debug/CMakeFiles/Task2.dir
+C:/Users/Cezar/Desktop/OOP/Lab3/Task2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Cezar/Desktop/OOP/Lab3/Task2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
