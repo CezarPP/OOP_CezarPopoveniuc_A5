@@ -2,7 +2,7 @@
 
 #include "Student.h"
 
-int compareName(Student *S1, Student *S2);
+int compareName(Student *S1, Student *S2)
 
 int compareEnglishGrade(Student *S1, Student *S2);
 
