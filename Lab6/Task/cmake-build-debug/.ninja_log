@@ -1,0 +1,27 @@
+# ninja log v5
+25	2221	6701879672412196	CMakeFiles/Task.dir/Mazda.cpp.obj	13e82909fa110bfe
+2	2234	6701879672442110	CMakeFiles/Task.dir/main.cpp.obj	659ab58522a6d3fa
+7	2236	6701879672442110	CMakeFiles/Task.dir/Dacia.cpp.obj	a77462086e9d0728
+14	2237	6701879672462061	CMakeFiles/Task.dir/Mercedes.cpp.obj	4d8e1715bf8061fe
+11	2238	6701879672462061	CMakeFiles/Task.dir/Toyota.cpp.obj	bf2c66e426e9b9c9
+27	2241	6701879672511954	CMakeFiles/Task.dir/Ford.cpp.obj	47b7a3cfe7b44db
+19	2258	6701879672831066	CMakeFiles/Task.dir/Circuit.cpp.obj	bc716d5d067e07c6
+2258	2625	6701879676482002	Task.exe	3b85fbb2e01c5f02
+16	3120	6701887297765745	CMakeFiles/Task.dir/Mercedes.cpp.obj	4d8e1715bf8061fe
+29	3123	6701887297815612	CMakeFiles/Task.dir/Mazda.cpp.obj	13e82909fa110bfe
+11	3124	6701887297785698	CMakeFiles/Task.dir/Dacia.cpp.obj	a77462086e9d0728
+7	3129	6701887297955236	CMakeFiles/Task.dir/Toyota.cpp.obj	bf2c66e426e9b9c9
+33	3142	6701887298114806	CMakeFiles/Task.dir/Circuit.cpp.obj	bc716d5d067e07c6
+19	3317	6701887299851913	CMakeFiles/Task.dir/Ford.cpp.obj	47b7a3cfe7b44db
+3	3318	6701887299851913	CMakeFiles/Task.dir/main.cpp.obj	659ab58522a6d3fa
+3318	3522	6701887301866890	Task.exe	3b85fbb2e01c5f02
+3	1126	6701888244460027	CMakeFiles/Task.dir/Circuit.cpp.obj	bc716d5d067e07c6
+1126	1228	6701888245457691	Task.exe	3b85fbb2e01c5f02
+7	4982	6701892252461916	CMakeFiles/Task.dir/main.cpp.obj	659ab58522a6d3fa
+24	4984	6701892252461916	CMakeFiles/Task.dir/Dacia.cpp.obj	a77462086e9d0728
+44	4993	6701892252541699	CMakeFiles/Task.dir/Ford.cpp.obj	47b7a3cfe7b44db
+16	4994	6701892252551677	CMakeFiles/Task.dir/Toyota.cpp.obj	bf2c66e426e9b9c9
+35	4995	6701892252551677	CMakeFiles/Task.dir/Mazda.cpp.obj	13e82909fa110bfe
+30	4997	6701892252581599	CMakeFiles/Task.dir/Mercedes.cpp.obj	4d8e1715bf8061fe
+54	5045	6701892253130113	CMakeFiles/Task.dir/Circuit.cpp.obj	bc716d5d067e07c6
+5045	5214	6701892254778633	Task.exe	3b85fbb2e01c5f02
