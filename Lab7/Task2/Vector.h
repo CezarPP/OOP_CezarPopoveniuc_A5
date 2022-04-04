@@ -70,7 +70,7 @@ struct Vector {
         if (index >= size)
             return;
         if (__builtin_popcount(size) == 1) {
-            int *aux = new T[size * 2];
+            T *aux = new T[size * 2];
             for (unsigned int i = 0; i < size - 1; i++)
                 aux[i] = v[i];
             for (unsigned int i = size - 1; i > index; i--)
