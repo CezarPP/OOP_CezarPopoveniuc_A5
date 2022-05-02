@@ -12,11 +12,11 @@ public:
     pair<KeyType, ValueType> *p = nullptr;
     int index = 0;
 
-    bool operator!=(Iterator<KeyType, ValueType> &otherIt) const {
+    bool operator!=(Iterator<KeyType, ValueType> otherIt) {
         return p != otherIt.p;
     }
 
-    Iterator &operator++() {
+    void operator++() {
         p++;
         index++;
     }
