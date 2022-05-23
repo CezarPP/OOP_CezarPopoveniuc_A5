@@ -1,0 +1,10 @@
+# ninja log v5
+3	1574	6750261315943998	CMakeFiles/UnitTesting.dir/main.cpp.obj	1cb566ab84517e96
+1	247	6750264778247726	build.ninja	2ebec10fcb72802f
+6	2349	6750264807374343	CMakeFiles/UnitTesting.dir/main.cpp.obj	52d3f26878328812
+29	19310	6750264976659850	CMakeFiles/UnitTesting.dir/catch_amalgamated.cpp.obj	42fb959ee028491a
+19311	61230	6750265396132381	UnitTesting.exe	bc3d76c7bb41e1b8
+3	1499	6750265794270681	CMakeFiles/UnitTesting.dir/main.cpp.obj	52d3f26878328812
+1500	42983	6750266209022385	UnitTesting.exe	bc3d76c7bb41e1b8
+3	1602	6750266444861753	CMakeFiles/UnitTesting.dir/main.cpp.obj	52d3f26878328812
+1603	41167	6750266840425482	UnitTesting.exe	bc3d76c7bb41e1b8
